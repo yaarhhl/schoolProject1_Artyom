@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My_mini_project</string>
+    <string name="user_hint">введите ответ</string>
+    <string name="question">Вопрос:</string>
+    <string name="startGame">Начать игру</string>
+    <string name="nextQuestion">Следующий вопрос</string>
+    <string name="previousQuestion">Предыдущий вопрос</string>
+    <string name="result">Узнать результат</string>
+    <string name="mid_ball">Средний процент правильных ответов: </string>
+    <string name="ball"> Ваша оценка: </string>
+    <string name="text_button">Утвердить текст</string>
+</resources>

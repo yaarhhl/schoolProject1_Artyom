@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="150sp"
+        android:layout_height="80sp"
+        android:layout_marginStart="230sp"
+        android:layout_marginTop="700sp"
+        android:text="Физика" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150sp"
+        android:layout_height="80sp"
+        android:layout_marginTop="700sp"
+        android:layout_marginStart="20sp"
+        android:text="Английский язык" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="150sp"
+        android:layout_height="80sp"
+        android:layout_marginTop="600sp"
+        android:layout_marginStart="230sp"
+        android:text="Информатика" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="150sp"
+        android:layout_height="80sp"
+        android:layout_marginTop="600sp"
+        android:layout_marginStart="20sp"
+        android:text="Русский язык" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="150sp"
+        android:layout_height="80sp"
+        android:layout_marginTop="500sp"
+        android:layout_marginStart="230sp"
+        android:text="Математика" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="150sp"
+        android:layout_height="80sp"
+        android:layout_marginTop="500sp"
+        android:layout_marginStart="20sp"
+        android:text="География" />
+
+</RelativeLayout>
